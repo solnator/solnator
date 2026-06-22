@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=solnator&show_icons=true&theme=tokyonight&count_private=true" alt="Solomon's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solnator&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=solnator&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
